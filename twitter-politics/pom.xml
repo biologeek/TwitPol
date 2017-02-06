@@ -5,5 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Twitter Politics Language Analyzer</name>
   <packaging>pom</packaging>
-  <description>																																												</description>
+  <modules>
+  	<module>twitter-politics-analyzer</module>
+  	<module>twitter-politics-core</module>
+  </modules>
+  <description>																																											</description>
 </project>
